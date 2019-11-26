@@ -21,7 +21,7 @@ INSERT INTO `towns` (`city`, `country`, `population`, `year`)
 
 #Task 2
 
-SELECT `city` and `country` FROM `towns` WHERE `population`>1000000;
+SELECT `city` , `country` FROM `towns` WHERE `population`>1000000;
 
 #Task 3
 
